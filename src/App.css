@@ -1,0 +1,35 @@
+/* App.css */
+/* App.css */
+.todo-app {
+  text-align: center;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #ebda88; /* Add a light background color */
+}
+
+.todo-list {
+  margin-top: 30px;
+}
+
+/* Rest of the styling for TodoApp */
+
+
+.todo-app {
+  text-align: center;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #e77a7a; /* Add border to create a frame */
+  border-radius: 8px; /* Add rounded corners for better appearance */
+  box-shadow: 0 0 10px rgba(229, 47, 47, 0.1); /* Add a subtle shadow */
+}
+
+.todo-list {
+  margin-top: 20px;
+}
+
+/* Rest of the styling for TodoApp */

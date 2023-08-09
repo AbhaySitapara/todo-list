@@ -1,0 +1,24 @@
+/* AddTodoForm.css */
+.add-todo-form {
+    margin-top: 10px;
+    border: 1px solid #ccc; /* Add border to the form */
+    padding: 10px; /* Add padding for better spacing */
+  }
+  
+  .add-todo-form input[type="text"] {
+    width: 70%;
+    padding: 8px;
+    border: 1px solid #ccc; /* Add border to the input field */
+    border-radius: 4px;
+  }
+  
+  .add-todo-form button {
+    margin-left: 10px;
+    padding: 8px 12px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+  }
+  
