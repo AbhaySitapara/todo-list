@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/todo-list/static/css/main.cd0fc84c.css",
-    "main.js": "/todo-list/static/js/main.7bd3c579.js",
-    "static/js/787.a5cad257.chunk.js": "/todo-list/static/js/787.a5cad257.chunk.js",
-    "index.html": "/todo-list/index.html",
-    "main.cd0fc84c.css.map": "/todo-list/static/css/main.cd0fc84c.css.map",
-    "main.7bd3c579.js.map": "/todo-list/static/js/main.7bd3c579.js.map",
-    "787.a5cad257.chunk.js.map": "/todo-list/static/js/787.a5cad257.chunk.js.map"
+    "main.css": "/AbhaySitapara/todo-list/static/css/main.cd0fc84c.css",
+    "main.js": "/AbhaySitapara/todo-list/static/js/main.dc648e5f.js",
+    "static/js/787.a5cad257.chunk.js": "/AbhaySitapara/todo-list/static/js/787.a5cad257.chunk.js",
+    "index.html": "/AbhaySitapara/todo-list/index.html",
+    "main.cd0fc84c.css.map": "/AbhaySitapara/todo-list/static/css/main.cd0fc84c.css.map",
+    "main.dc648e5f.js.map": "/AbhaySitapara/todo-list/static/js/main.dc648e5f.js.map",
+    "787.a5cad257.chunk.js.map": "/AbhaySitapara/todo-list/static/js/787.a5cad257.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd0fc84c.css",
-    "static/js/main.7bd3c579.js"
+    "static/js/main.dc648e5f.js"
   ]
 }
